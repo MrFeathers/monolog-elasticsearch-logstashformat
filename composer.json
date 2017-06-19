@@ -1,7 +1,7 @@
 {
-    "name": "nulpunkt/monolog-elasticsearch-logstashformat",
+    "name": "MrFeathers/monolog-elasticsearch-logstashformat",
     "type": "library",
-    "description": "Use the logstash formatter with elasticsearch",
+    "description": "Use the logstash formatter with elasticsearch. Updated elasticsearch dependency",
     "keywords": ["elasticsearch", "monolog", "logstash", "kibana"],
     "homepage": "http://github.com/nulpunkt/monolog-elasticsearch-logstashformat",
     "license": "MIT",
